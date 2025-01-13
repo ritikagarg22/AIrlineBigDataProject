@@ -1,0 +1,5 @@
+Season,DelayedCount,DelayedPercentage,OnTimeCount,OnTimePercentage,CanceledCount,CanceledPercentage
+Fall,4988,33.40,4950,33.15,4994,33.44
+Spring,5038,33.35,5010,33.16,5059,33.49
+Summer,5049,33.06,5104,33.42,5119,33.52
+Winter,4799,33.45,4812,33.54,4736,33.01
